@@ -27,7 +27,7 @@ If you want to install the [Takeru-Yamamoto/Laravel-Customized](https://github.c
 Please replace the respective argument parts and execute.
 
 ```
-curl -s https://raw.githubusercontent.com/Takeru-Yamamoto/Laravel-Application-Installer/script.bash | bash -s "${INSTALL_DIR}" "${OWNER_USER}" "${ACCESS_URL}" "${IS_INSTALL_LARAVEL_CUSTOMIZED}"
+curl -s https://raw.githubusercontent.com/Takeru-Yamamoto/Laravel-Application-Installer/master/script.bash | bash -s "${INSTALL_DIR}" "${OWNER_USER}" "${ACCESS_URL}" "${IS_INSTALL_LARAVEL_CUSTOMIZED}"
 ```
 
 As soon as the building is complete, run the Laravel migration.
